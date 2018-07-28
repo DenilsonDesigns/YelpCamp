@@ -9,6 +9,10 @@ const campgrounds = [
    {name: 'Salmon Creek', image: 'https://usatunofficial.files.wordpress.com/2015/08/crane-flat-site-503.jpg'},
    {name: 'Granite Hill', image: 'https://travel.home.sndimg.com/content/dam/images/travel/fullrights/2016/01/14/national-park-camping/camping-glacier-national-park-camping.jpg.rend.hgtvcom.966.725.suffix/1491593018562.jpeg'},
    {name: 'Mountain Goat Rest', image: 'https://www.straight.com/files/v3/styles/gs_large/public/images/18/06/gettyimages-649155058.jpg?itok=Lhx5ciAR'},
+   {name: 'Mountain Goat Rest', image: 'https://www.straight.com/files/v3/styles/gs_large/public/images/18/06/gettyimages-649155058.jpg?itok=Lhx5ciAR'},
+   {name: 'Mountain Goat Rest', image: 'https://www.straight.com/files/v3/styles/gs_large/public/images/18/06/gettyimages-649155058.jpg?itok=Lhx5ciAR'},
+   {name: 'Mountain Goat Rest', image: 'https://www.straight.com/files/v3/styles/gs_large/public/images/18/06/gettyimages-649155058.jpg?itok=Lhx5ciAR'},
+   {name: 'Mountain Goat Rest', image: 'https://www.straight.com/files/v3/styles/gs_large/public/images/18/06/gettyimages-649155058.jpg?itok=Lhx5ciAR'},
 ];
 
 app.get('/', (req,res)=>{
